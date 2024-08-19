@@ -1,6 +1,0 @@
-﻿  Building Custom Rule D:/googletest/GQITest/UintTest/GQITestFrame/CMakeLists.txt
-  GQITestFrame.cpp
-D:\googletest\GQITest\UintTest\GQITestFrame\GQITestFrame.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-    正在创建库 D:/googletest/GQITest/UintTest/GQITestFrame/Debug/GQITestFrame.lib 和对象 D:/googletest/GQITest/UintTest/GQITestFrame/Debug/GQITestFrame.exp
-  GQITestFrame.vcxproj -> D:\googletest\GQITest\bin\Debug\GQITestFrame.exe
-  GQITestFrame.vcxproj -> D:/googletest/GQITest/bin/Debug/GQITestFrame.pdb (Full PDB)
