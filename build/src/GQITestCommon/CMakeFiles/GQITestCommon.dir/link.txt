@@ -1,2 +1,0 @@
-"D:\Microsoft VS Code\mingw64\bin\ar.exe" qc libGQITestCommon.a CMakeFiles/GQITestCommon.dir/GQITestCommon.cpp.obj
-"D:\Microsoft VS Code\mingw64\bin\ranlib.exe" libGQITestCommon.a
