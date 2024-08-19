@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\GQIPlugin.dir/objects.a
+"D:\Microsoft VS Code\mingw64\bin\ar.exe" qc CMakeFiles\GQIPlugin.dir/objects.a @CMakeFiles\GQIPlugin.dir\objects1.rsp
+"D:\Microsoft VS Code\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\GQIPlugin.dir/objects.a -Wl,--no-whole-archive -o ..\..\bin\GQIPlugin.exe -Wl,--out-implib,libGQIPlugin.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GQIPlugin.dir\linklibs.rsp
